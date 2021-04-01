@@ -1,4 +1,4 @@
-$TITLE(BIOS FOR THE IBM PERSONAL COMPUTER XT)
+$TITLE(CLONE OF THE IBM PCXT BIOS)
 
 ;----------------------------------------------------------------
 ;	THE  BIOS ROUTINES ARE MEANT TO BE ACCESSED THROUGH	:
