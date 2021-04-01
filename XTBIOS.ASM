@@ -230,7 +230,7 @@ VIDEO_RAM	ENDS
 ;----------------------------------------
 ;	  ROM RESIDENT CODE		:
 ;----------------------------------------
-CODE	SEGMENT AT 0F000H
+CODE	SEGMENT
 	DB	57344 DUP(?)		; FILL LOWEST 56K
 
 	DB	'1501512 COPR. IBM 1981'        ; COPYRIGHT NOTICE
